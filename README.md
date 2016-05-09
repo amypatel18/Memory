@@ -1,2 +1,7 @@
-# hello-world
-Just another respirotry
+public class Player {
+
+private int points;
+
+
+
+}
